@@ -214,5 +214,27 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Streamlit
-.streamlit/secrets.toml
+# DATASETS
+datasets/
+Final_dataset/
+
+# WEIGHTS
+weights/
+*.pth
+*.pt
+
+# YOLO
+runs/
+
+# PYTHON
+__pycache__/
+*.pyc
+
+# JUPYTER
+.ipynb_checkpoints/
+
+# SYSTEM
+.DS_Store
+
+# COLAB
+sample_data/
