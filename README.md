@@ -48,3 +48,10 @@ notebooks/
 images/
 README.md
 
+## Comparison
+
+| Model | Task | Metric |
+|---|---|---|
+| YOLOv8s | Detection | mAP50 ≈ 0.89 |
+| Faster R-CNN | Detection | mAP50 ≈ 0.88 |
+
