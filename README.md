@@ -38,10 +38,10 @@
 - Albumentations
 
 ## Основные технологии
-PyTorch
-Torchvision
-YOLOv8
-Albumentations
+- PyTorch
+- Torchvision
+- YOLOv8
+- Albumentations
 
 
 
