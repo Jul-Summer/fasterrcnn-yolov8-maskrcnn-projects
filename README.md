@@ -45,8 +45,7 @@ images/
 models/
 README.md
 
-
-Model Comparison
+Сравнение моделей
 Model	Task	Metric
 YOLOv8	Detection	mAP50 ≈ 0.89
 Faster R-CNN	Detection	mAP50 ≈ 0.88
