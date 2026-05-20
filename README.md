@@ -18,8 +18,6 @@
 - Precision
 - Recall
 
----
-
 ## Результаты
 
 ### YOLOv8s
@@ -32,14 +30,29 @@
 
 - mAP50 ≈ 0.88
 
----
-
 ## Основные технологии
 
 - PyTorch
 - Torchvision
 - YOLOv8
 - Albumentations
+
+## Структура проекта
+
+```text
+notebooks/
+images/
+models/
+README.md
+
+```markdown
+##  Model Comparison
+
+| Model         | Task         | Metric        |
+|---------------|--------------|---------------|
+| YOLOv8        | Detection    | mAP50 ≈ 0.89  |
+| Faster R-CNN  | Detection    | mAP50 ≈ 0.88  |
+
 
 
 
