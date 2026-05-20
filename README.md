@@ -3,7 +3,7 @@
 # Space Object Detection and Segmentation
 
 Проект по Computer Vision:
-обнаружение и сегментация космических объектов.
+обнаружение и детекция медицинских масок
 
 ## Проект — Object Detection
 
