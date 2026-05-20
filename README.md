@@ -41,13 +41,6 @@
 - YOLOv8
 - Albumentations
 
-## Структура проекта
-
-```text
-notebooks/
-images/
-README.md
-
 
 
 
