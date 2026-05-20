@@ -48,8 +48,6 @@ notebooks/
 images/
 README.md
 
-Comparison
-
 | Model        | Task         | Metric       |
 | ------------ | ------------ | ------------ |
 | YOLOv8s      | Detection    | mAP50 ≈ 0.89 |
