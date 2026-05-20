@@ -1,4 +1,4 @@
-# fasterrcnn-yolov8-maskrcnn-projects
+# fasterrcnn-yolov8-projects
 Детекция медицинских масок с использованием Faster R-CNN и YOLOv8, сравнение моделей, метрик и визуализация предсказаний.
 # Object Detection 
 
